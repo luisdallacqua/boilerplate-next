@@ -1,4 +1,4 @@
-import { ThemeProvider } from '@material-ui/styles'
+import { ThemeProvider } from '@mui/material/styles'
 import { AppProps } from 'next/dist/shared/lib/router/router'
 import theme from '../styles/theme'
 
